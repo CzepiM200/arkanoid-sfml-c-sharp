@@ -1,0 +1,9 @@
+9237
+12700
+true
+false
+false
+false
+true
+true
+KONIEC PLIKU
