@@ -1,6 +1,9 @@
 # Arkanoid Game with SFML and C#
 The aim of this project was to pass classes on mastering the basics of object-oriented programming
 
+## How to play?
+Clone repository on to your Windows machine and run ArkanoidCS.exe file
+
 ### Game
 ![image](https://github.com/CzepiM200/arkanoid-sfml-c-sharp/assets/16826668/232381a7-91fa-443b-ab66-15b960fd9535)
 
